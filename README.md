@@ -1,0 +1,2 @@
+# designarx
+vibecoded simple website
